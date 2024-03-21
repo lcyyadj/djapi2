@@ -1,0 +1,10 @@
+
+server:
+  port: 8103
+  servlet:
+    context-path: /api
+djapi:
+  client:
+    access-key: 123
+    secret-key: 111111
+
